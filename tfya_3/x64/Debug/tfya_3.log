@@ -1,0 +1,3 @@
+﻿  tfya_3.cpp
+C:\Users\AlexLnv\source\repos\tfya_3\tfya_3\tfya_3.cpp(108,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  tfya_3.vcxproj -> C:\Users\AlexLnv\source\repos\tfya_3\tfya_3\x64\Debug\tfya_3.exe

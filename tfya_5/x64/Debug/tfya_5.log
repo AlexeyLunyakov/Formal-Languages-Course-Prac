@@ -1,0 +1,4 @@
+﻿  tfya_5.cpp
+C:\Users\AlexLnv\source\repos\tfya_5\tfya_5\tfya_5_head.hpp(271,11): warning C4101: node: неиспользованная локальная переменная
+C:\Users\AlexLnv\source\repos\tfya_5\tfya_5\tfya_5_head.hpp(286,10): warning C4101: tmp: неиспользованная локальная переменная
+  tfya_5.vcxproj -> C:\Users\AlexLnv\source\repos\tfya_5\tfya_5\x64\Debug\tfya_5.exe

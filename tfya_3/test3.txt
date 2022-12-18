@@ -1,0 +1,9 @@
+{
+	"name": "Ivan",
+	"age": 37,
+	"children": [
+		"Masha",
+		"Igor"
+	,
+	"married": true
+}
